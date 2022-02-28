@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#information {
+  display: none;
+}
+
+#information p {
+  color: blue;
+}
+
+.btn {
+  background-color: lightslategray;
+  color: whitesmoke;
+}
